@@ -1,0 +1,1 @@
+A modern Android-based journal built with finesse, leveraging powerful libraries such as SQLite for storage
