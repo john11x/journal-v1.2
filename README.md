@@ -1,7 +1,6 @@
 ## Journal v1.2 (demo) 
 
 [![Android](https://img.shields.io/badge/Platform-Android-green?logo=android)](https://developer.android.com/)  
-[![Java](https://img.shields.io/badge/Language-Java-blue?logo=java)](https://www.oracle.com/java/)  
 [![Build](https://img.shields.io/badge/Build-Gradle-success?logo=gradle)](https://gradle.org/)  
 
 A modern **Android-based journal** built with finesse, leveraging powerful libraries such as **SQLite** for storage.  
